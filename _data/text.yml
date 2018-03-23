@@ -12,7 +12,7 @@ en: &DEFAULT_EN
   min_read: "min read"
   read_more: "Devamı&hellip;"
   categories: "Kategori(ler)"
-  tags: "Tagler"
+  tags: "Etiket(ler)"
   pages_categorized: "Pages filed under"
   pages_tagged: "Taglenen Sayfalar"
   table_of_contents: "Tablo İçerikleri"

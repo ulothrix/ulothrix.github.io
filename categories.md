@@ -1,5 +1,5 @@
 ---
-title: Category Archive
+title: Kategori Arşivi
 layout: categories
 permalink: /categories/
 show_excerpts: true

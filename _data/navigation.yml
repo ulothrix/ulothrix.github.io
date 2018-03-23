@@ -1,14 +1,14 @@
 # Sample site navigation links
 
- - title: Home
+ - title: Anasayfa
    url: /
- - title: Posts
+ - title: Makaleler
    url: /posts/
  - title: Kategoriler
    url: /categories/
- - title: Tags
+ - title: Etiketler
    url: /tags/
 # - title: Recipes
 #   url: /recipes/
- - title: Search
+ - title: Arama
    url: /search/

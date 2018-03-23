@@ -1,5 +1,5 @@
 ---
-title: Tag Archive
+title: Etiket Arşivi
 layout: tags
 permalink: /tags/
 show_excerpts: true
