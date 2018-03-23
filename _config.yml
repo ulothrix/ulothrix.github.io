@@ -51,7 +51,7 @@ paginate: 10
 paginate_path: /page:num/
 
 # Search
-search_full_content: false # can have performance implications for large sites
+search_full_content: true # can have performance implications for large sites
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"
@@ -87,14 +87,17 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Serhat
+  picture: /images/ulothrix.jpeg
+  email: zerhat@gmail.com
+  twitter: uloth333
   links:
-    - title:
-      url:
-      icon:
+    - title: Instagram
+      url: https://instagram.com/ulothrix_
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/ulothrix
+      icon: fab fa-github-squar
 
 # Footer Links
 footer_links:
