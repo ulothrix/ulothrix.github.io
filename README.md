@@ -1,2 +1,1 @@
-# ulothrix.github.io
 Blog
