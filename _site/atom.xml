@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-03-23T19:57:38+03:00</updated><id>http://localhost:4000/</id><title type="html">Serhat Akdeniz</title><subtitle>Personal Blog</subtitle><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><entry><title type="html">Edge Case: Nested and Mixed Lists</title><link href="http://localhost:4000/edge%20case/Deneme/" rel="alternate" type="text/html" title="Edge Case: Nested and Mixed Lists" /><published>2018-03-23T00:00:00+03:00</published><updated>2017-03-09T22:25:52+03:00</updated><id>http://localhost:4000/edge%20case/Deneme</id><content type="html" xml:base="http://localhost:4000/edge%20case/Deneme/">&lt;p&gt;Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.&lt;/p&gt;
+
+&lt;h2 id=&quot;ordered--unordered--ordered&quot;&gt;Ordered – Unordered – Ordered&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ol&gt;
+      &lt;li&gt;ordered item&lt;/li&gt;
+      &lt;li&gt;ordered item&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;ordered--unordered--unordered&quot;&gt;Ordered – Unordered – Unordered&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;unordered&lt;/strong&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;ul&gt;
+      &lt;li&gt;unordered item&lt;/li&gt;
+      &lt;li&gt;unordered item&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+  &lt;li&gt;ordered item&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;unordered--ordered--unordered&quot;&gt;Unordered – Ordered – Unordered&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;unordered item&lt;/li&gt;
+  &lt;li&gt;unordered item
+    &lt;ol&gt;
+      &lt;li&gt;ordered&lt;/li&gt;
+      &lt;li&gt;ordered
+        &lt;ul&gt;
+          &lt;li&gt;unordered item&lt;/li&gt;
+          &lt;li&gt;unordered item&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;unordered item&lt;/li&gt;
+  &lt;li&gt;unordered item&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unordered--unordered--ordered&quot;&gt;Unordered – Unordered – Ordered&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;unordered item&lt;/li&gt;
+  &lt;li&gt;unordered item
+    &lt;ul&gt;
+      &lt;li&gt;unordered&lt;/li&gt;
+      &lt;li&gt;unordered
+        &lt;ol&gt;
+          &lt;li&gt;&lt;strong&gt;ordered item&lt;/strong&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;strong&gt;ordered item&lt;/strong&gt;&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;unordered item&lt;/li&gt;
+  &lt;li&gt;unordered item&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><category term="content" /><category term="css" /><category term="edge case" /><category term="lists" /><category term="markup" /><summary type="html">Nested and mixed lists are an interesting beast. It’s a corner case to make sure that lists within lists do not break the ordered list numbering order and list styles go deep enough.</summary></entry><entry><title type="html">Pointers9</title><link href="http://localhost:4000/pointers9/" rel="alternate" type="text/html" title="Pointers9" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers9</id><content type="html" xml:base="http://localhost:4000/pointers9/">&lt;p&gt;Pointers&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">Pointers</summary></entry><entry><title type="html">Pointers8</title><link href="http://localhost:4000/pointers8/" rel="alternate" type="text/html" title="Pointers8" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers8</id><content type="html" xml:base="http://localhost:4000/pointers8/">&lt;p&gt;Pointers&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">Pointers</summary></entry><entry><title type="html">Pointers7</title><link href="http://localhost:4000/pointers7/" rel="alternate" type="text/html" title="Pointers7" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers7</id><content type="html" xml:base="http://localhost:4000/pointers7/">&lt;p&gt;Pointers&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">Pointers</summary></entry><entry><title type="html">Pointers6</title><link href="http://localhost:4000/pointers6/" rel="alternate" type="text/html" title="Pointers6" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers6</id><content type="html" xml:base="http://localhost:4000/pointers6/">&lt;p&gt;Pointers&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">Pointers</summary></entry><entry><title type="html">Pointers5</title><link href="http://localhost:4000/pointers5/" rel="alternate" type="text/html" title="Pointers5" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers5</id><content type="html" xml:base="http://localhost:4000/pointers5/">&lt;p&gt;asfgasfasfasfsaf&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">asfgasfasfasfsaf</summary></entry><entry><title type="html">Pointers4</title><link href="http://localhost:4000/pointers4/" rel="alternate" type="text/html" title="Pointers4" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers4</id><content type="html" xml:base="http://localhost:4000/pointers4/">&lt;p&gt;asfasfd&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">asfasfd</summary></entry><entry><title type="html">Pointers3</title><link href="http://localhost:4000/pointers3/" rel="alternate" type="text/html" title="Pointers3" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers3</id><content type="html" xml:base="http://localhost:4000/pointers3/">&lt;p&gt;aaa&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">aaa</summary></entry><entry><title type="html">Pointers2</title><link href="http://localhost:4000/pointers2/" rel="alternate" type="text/html" title="Pointers2" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers2</id><content type="html" xml:base="http://localhost:4000/pointers2/">&lt;p&gt;Pointerlar değişmezlerrrrr olmazsa olmazlarrrr&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">Pointerlar değişmezlerrrrr olmazsa olmazlarrrr</summary></entry><entry><title type="html">Pointers10</title><link href="http://localhost:4000/pointers10/" rel="alternate" type="text/html" title="Pointers10" /><published>2018-03-22T00:00:00+03:00</published><updated>2018-03-22T00:00:00+03:00</updated><id>http://localhost:4000/pointers10</id><content type="html" xml:base="http://localhost:4000/pointers10/">&lt;p&gt;Pointers&lt;/p&gt;</content><author><name>Serhat Akdeniz</name><email>zerhat@gmail.com</email></author><summary type="html">Pointers</summary></entry></feed>
