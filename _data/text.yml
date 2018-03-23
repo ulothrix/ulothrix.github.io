@@ -8,7 +8,7 @@ en: &DEFAULT_EN
   skip_content: "İçeriğe geç"
   skip_footer: "Footera geç"
   menu_label: "Menü"
-  by: "by"
+  by: ""
   min_read: "min read"
   read_more: "Devamı&hellip;"
   categories: "Kategori(ler)"
