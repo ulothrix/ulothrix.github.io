@@ -16,8 +16,8 @@
 remote_theme: jekyll-theme-so-simple
 # remote_theme: mmistakes/so-simple-theme
 locale: tr-TR
-title: "Ulothrix Title"
-description: "Ulothrix Description"
+title: "Serhat Akdeniz"
+description: "Personal Blog"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: "https://ulothrix.github.io"
 logo: "/images/logo.jpeg"
