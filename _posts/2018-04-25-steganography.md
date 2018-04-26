@@ -7,7 +7,6 @@ tags:
   - cryptography
 last_modified_at: 2018-04-25T16:19:20-05:00
 ---
+Steganografi, önemli bir bilginin çeşitli medya taşıyıcılarında gizlenmesi sanatıdır. Yıllar içerisinde bu alanda bir çok çalışma yapılmıştır.
 
 ![image-center]({{ '/images/steg.jpg' | absolute_url }}){: .align-center}
-
-Steganografi, önemli bir bilginin çeşitli medya taşıyıcılarında gizlenmesi sanatıdır. Yıllar içerisinde bu alanda bir çok çalışma yapılmıştır.
