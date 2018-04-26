@@ -1,8 +1,8 @@
 ---
 title: "Steganografi: Bilgi Gizleme Sanatı"
 image: 
-  path: /images/so-simple-sample-image-5.jpg
-  thumbnail: /images/so-simple-sample-image-5-400x200.jpg
+  path: /images/steg.jpg
+  thumbnail: /images/steg.jpg
   caption: "Photo from [WeGraphics](http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/)"
 categories:
   - Security
