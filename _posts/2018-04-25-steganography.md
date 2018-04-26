@@ -1,7 +1,6 @@
 ---
 title: "Steganografi: Bilgi Gizleme Sanatı"
 image: 
-  #path: /images/steg.jpg
   thumbnail: /images/steg.jpg
 categories:
   - Security
